@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navraj</h1>
 <h3 align="center">I am a passionate developer currently pursuing a Bachelors in Computer Science at the University of Waterloo</h3>
 
-- 🌱 I’m currently learning **Tensorflow, Angular, and**
+- 🌱 I’m currently learning **Tensorflow, Angular, and Mobile Development**
 
 - 👨‍💻 My Personal Website showcasing my favourite projects [https://navrajbal.netlify.app/](https://navrajbal.netlify.app/)
 
