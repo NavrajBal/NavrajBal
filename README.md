@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Tensorflow, Angular, and Mobile Development**
 
-- 👨‍💻 My Personal Website showcasing my favourite projects [https://navrajbal.netlify.app/](https://navrajbal.netlify.app/)
-
 - 💬 Ask me about **React, Python, HTML/CSS, C/C++, JS**
 
 - 📫 How to reach me **balnavsingh@gmail.com**
