@@ -6,7 +6,7 @@
 - 💻 **Languages:** `Python`, `TypeScript/JavaScript`, `C++`, `C#`, `Go`, `Kotlin`, `SQL`, `PowerShell`, `Bash`
 - 🕸️ **Technologies:** `React`, `Next.js`, `Node.js`, `.NET Core`, `GraphQL`, `PostgreSQL`, `MongoDB`, `Azure`, `AWS`, `Docker`
 - 🛠️ **Tools & Concepts:** `Git`, `CI/CD`, `Microservices`, `Unit & E2E Testing`, `Agile Development`, `Linux`
-- 📚 **Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Databases, Application Development, Sequential Programming
+- 📚 **Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Databases, Operating Systems, Application Development, Sequential Programming, Numerical Computational
 
 ### Contact Me!
 - 📧 Email: **balnavsingh@gmail.com**
