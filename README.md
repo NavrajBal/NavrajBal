@@ -12,4 +12,4 @@
 - 📧 Email: **balnavsingh@gmail.com**
 - 🌐 Webstie: <a href="https://www.balnavraj.com">balnavraj.com</a>
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/balnavraj/">linkedin.com/in/balnavraj</a>
-- 💻 GitHub: <a href="https://github.com/NavrajBal">github.com/NavrajBal</a>
+
